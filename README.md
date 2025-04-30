@@ -16,3 +16,9 @@ Here are a few things I've picked up along my learning journey.
 - 💾 MySQL | SQL
 - #️⃣ Git | Github
 - 🔗 Datastructures & Algorithms
+
+
+## 📬 Get In Touch
+
+- LinkedIn - [George Secen](https://www.linkedin.com/in/george-secen-0084a9351/)
+- Email - [george.secen.work@gmail.com](mailto:george.secen.work@gmail.com)
